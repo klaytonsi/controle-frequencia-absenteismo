@@ -1,0 +1,16 @@
+# Secrets / Segredos
+.env
+
+# Data / Dados gerados
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# System / Sistema
+.DS_Store
+Thumbs.db
